@@ -23,7 +23,6 @@ class NotificationScreen extends StatelessWidget {
               textInputAction: TextInputAction.next,
               keyboardType: TextInputType.name,
               decoration: InputDecoration(hintText: 'title',
-
                   border: OutlineInputBorder(
                       borderRadius: BorderRadius.circular(20),
                       borderSide: const BorderSide(color: Colors.yellow)
